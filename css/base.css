@@ -1,0 +1,123 @@
+/*公共样式*/
+.w {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+blockquote,body,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,hr,input,legend,li,ol,p,pre,td,textarea,th,ul {
+    margin:0;
+    padding:0;
+}
+.fl {
+    float: left;
+}
+.fr {
+   float: right;
+}
+.JScolor{
+    color: #ea6f5a !important;
+}
+button,input {
+    border: 0;
+    outline: none;
+}
+/*背景*/
+body{
+    background-repeat: no-repeat;
+    background-size: 1536px 758px;
+}
+/*主体部分*/
+.a{
+    width: 1350px;
+    height: 556px;
+}
+/*上部*/
+.b{
+    width:740px;
+    height: 111px;
+    margin-top: 25px;
+    margin-left:40px;
+    border-bottom: 1px solid grey;
+}
+.c{
+    width:200px ;
+    height:70px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.d{
+    width:430px;
+    height:400px;
+    margin-top: 130px;
+    margin-right: 120px;
+    background-color:white;
+    border-radius: 4px;
+}
+.p {
+    font-size: 28px;
+    font-weight: 400;
+    padding-top: 25px;
+    text-align: center;
+    color: #333;
+}
+.e{
+    width:300px;
+    height:35px;
+    padding-left: 50px;
+    margin-top: 25px;
+}
+e:hover{
+    color:deepskyblue;
+ }
+.f{
+    width: 300px;
+    height: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+  }
+.g{
+    font-size:15px;
+    color:aqua;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+/*下边部分*/
+.h {
+    width: 1396px;
+    height: 109px;
+    position: absolute;
+    margin-top: 557px;
+    border-top:1px solid grey;
+}
+.i{
+    width:1200px;
+    height:20px;
+    margin-left: 100px;
+    margin-right:150px;
+    margin-top: 40px;
+}
+.j{
+    font-family: "Microsoft YaHei";
+    font-size: 16px;
+
+}
+.k {
+    margin-right:70px;
+    width: 200px;
+    height:40px;
+}
+.l{
+    border:1px solid grey;
+    border-radius: 2px;
+    background-color:transparent ;
+    color:grey;
+    padding:4px;
+    font-size:16px;
+}
